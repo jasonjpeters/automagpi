@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/bin/env bash
 
 MAGPI_URL="https://www.raspberrypi.org/magpi-issues/"
 
