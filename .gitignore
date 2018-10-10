@@ -1,0 +1,9 @@
+## os
+.DS_Store
+._*
+Thumbs.db
+
+## project
+*.list
+library/*
+!library/.gitkeep
